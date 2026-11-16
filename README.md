@@ -4,11 +4,9 @@ Template per il progetto del corso. Si lavora su un dataset assegnato per gruppo
 parti, e si presenta il lavoro all'esame.
 
 **Gruppo:**
- - Nome e Cognome
- - Nome e Cognome
- - Nome e Cognome
+ - Lorenzo Polizzi
 
-**Dataset assegnato:** (nome)
+**Dataset assegnato:** Hotel Booking Demand
 
 ## Le due parti
 
